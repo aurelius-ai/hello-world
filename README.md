@@ -1,4 +1,5 @@
 # hello-world
 account setup
-# Software is power!  We will harnness its potential to transcend boundaries, explpore the unknown and unravel the greatest mysteries. 
-# Aurelius Innovative A.I. will pioneer artificial wisdom.
+# Software is power!  
+# Aurelius will harness its potential to transcend boundaries, explore the unknown and unravel the greatest mysteries. 
+# Aurelius Innovative A.I. will be known as the pioneer of artificial wisdom.
